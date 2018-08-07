@@ -1,1 +1,0 @@
-export splitToLowerCase from "./splitToLowerCase"
