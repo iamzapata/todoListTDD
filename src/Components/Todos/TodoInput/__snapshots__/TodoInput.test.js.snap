@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TodoInput> Should render self 1`] = `
+<form
+  class="TodoInput"
+>
+  <input
+    placeholder="Add Todo..."
+    type="text"
+    value=""
+  />
+</form>
+`;

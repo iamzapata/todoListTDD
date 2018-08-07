@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Todo /> Should render self 1`] = `
+<span
+  class="Todo"
+>
+  Learn TypeScript
+  <input
+    type="checkbox"
+  />
+</span>
+`;

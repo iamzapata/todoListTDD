@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TodoList /> Should render self 1`] = `
+<ul
+  class="TodosList"
+>
+  <li>
+    <span
+      class="Todo"
+    >
+      Wash dishes
+      <input
+        type="checkbox"
+      />
+    </span>
+  </li>
+  <li>
+    <span
+      class="Todo"
+    >
+      Take out trash
+      <input
+        type="checkbox"
+      />
+    </span>
+  </li>
+</ul>
+`;

@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Filters /> Should render self 1`] = `
+<div
+  class="Filters"
+>
+  <label>
+    Show:
+  </label>
+  <button>
+    All
+  </button>
+  <button>
+    Active
+  </button>
+  <button>
+    Completed
+  </button>
+</div>
+`;

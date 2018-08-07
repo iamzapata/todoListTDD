@@ -1,0 +1,1 @@
+export splitToLowerCase from "./splitToLowerCase"
